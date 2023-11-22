@@ -69,7 +69,7 @@ export const BtnComprar = styled.button`
     ${cores.corSecundaria}
   );
   font-weight: bold;
-  font-size: 16px;
+  font-size: 12px;
   padding: 12px 0;
   text-transform: capitalize;
   color: #eee;
